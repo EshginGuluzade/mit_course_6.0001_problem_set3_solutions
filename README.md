@@ -7,4 +7,9 @@ Specialty: Mechanical Engineer
 
 Country: Azerbaijan
 
+My LinkedIn: https://www.linkedin.com/in/eshginguluzade/
+
+My Quora: https://www.quora.com/profile/Eshgin-Guluzade
+
+My Youtube Channel: https://www.youtube.com/channel/UCr6yufueEVaXBHgM8x1YlTw
 
