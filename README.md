@@ -17,8 +17,12 @@ My Youtube Channel: https://www.youtube.com/channel/UCr6yufueEVaXBHgM8x1YlTw
 Important note: These 3 files shown below must be in the same folder:
 
 =>>> Problem Set 3_Word Game_FINAL_SOLUTION_Contains_All_Functions.py
+
 =>>> test_ps3.py
+
 =>>> words.txt
+
+
 
 
 
